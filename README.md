@@ -7,7 +7,7 @@ Resoluções, relatórios e informações relativas às atividades semanais da d
 
 ![](Perfil.png)
 
-**Nome:** Andreina Maria Mendes da Silva  
+**Nome:** Victor Jerônimo Age  
 **Curso:** Ciência da Computação  
 **Turma:** Programação Funcional / 2020.1  
 **Professor:** David Sena  
