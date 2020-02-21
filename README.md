@@ -5,7 +5,7 @@ Resoluções, relatórios e informações relativas às atividades semanais da d
 
 # Minhas Informações
 
-![](Perfil.png)
+![](Perfil.jpg)
 
 **Nome:** Victor Jerônimo Age  
 **Curso:** Ciência da Computação  
