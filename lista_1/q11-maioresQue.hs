@@ -1,0 +1,1 @@
+maioresQue x xs = filter(\y -> x < y) xs

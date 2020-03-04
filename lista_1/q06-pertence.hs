@@ -1,0 +1,1 @@
+pertence x xs = if length (filter (==x) xs) == 0 then False else True

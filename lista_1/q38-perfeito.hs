@@ -1,0 +1,1 @@
+perfeito n = if length (filter (\x -> x^2 == n) [1..n]) > 0 then True else False

@@ -1,0 +1,1 @@
+primo x = if length (filter (\y -> mod x y == 0) [1..x]) > 2 then False else True
