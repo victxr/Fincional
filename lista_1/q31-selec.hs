@@ -1,0 +1,1 @@
+selec xs ys = [(xs !! y) | y <- ys]
